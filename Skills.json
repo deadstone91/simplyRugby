@@ -1,0 +1,398 @@
+[
+  {
+    "category": 1,
+    "value": 1,
+    "skillName": "passing Standard",
+    "userId": 123478
+  },
+  {
+    "category": 1,
+    "value": 1,
+    "skillName": "passing Spin",
+    "userId": 123478
+  },
+  {
+    "category": 1,
+    "value": 1,
+    "skillName": "passing Pop",
+    "userId": 123478
+  },
+  {
+    "category": 2,
+    "value": 2,
+    "skillName": "Kicking Front",
+    "userId": 123478
+  },
+  {
+    "category": 2,
+    "value": 2,
+    "skillName": "Kicking Rear",
+    "userId": 123478
+  },
+  {
+    "category": 2,
+    "value": 2,
+    "skillName": "Kicking Side",
+    "userId": 123478
+  },
+  {
+    "category": 2,
+    "value": 2,
+    "skillName": "Kicking Scrabble",
+    "userId": 123478
+  },
+  {
+    "category": 3,
+    "value": 3,
+    "skillName": "Tackling Drop",
+    "userId": 123478
+  },
+  {
+    "category": 3,
+    "value": 3,
+    "skillName": "Tackling Punt",
+    "userId": 123478
+  },
+  {
+    "category": 3,
+    "value": 3,
+    "skillName": "Tackling Grubber",
+    "userId": 123478
+  },
+  {
+    "category": 3,
+    "value": 3,
+    "skillName": "Tackling Goal",
+    "userId": 123478
+  },
+  {
+    "category": 1,
+    "value": 1,
+    "skillName": "passing Standard",
+    "userId": 123465
+  },
+  {
+    "category": 1,
+    "value": 5,
+    "skillName": "passing Spin",
+    "userId": 123465
+  },
+  {
+    "category": 1,
+    "value": 5,
+    "skillName": "passing Pop",
+    "userId": 123465
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Front",
+    "userId": 123465
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Rear",
+    "userId": 123465
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Side",
+    "userId": 123465
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Scrabble",
+    "userId": 123465
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Drop",
+    "userId": 123465
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Punt",
+    "userId": 123465
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Grubber",
+    "userId": 123465
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Goal",
+    "userId": 123465
+  },
+  {
+    "category": 1,
+    "value": 1,
+    "skillName": "passing Standard",
+    "userId": 123458
+  },
+  {
+    "category": 1,
+    "value": 5,
+    "skillName": "passing Spin",
+    "userId": 123458
+  },
+  {
+    "category": 1,
+    "value": 5,
+    "skillName": "passing Pop",
+    "userId": 123458
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Front",
+    "userId": 123458
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Rear",
+    "userId": 123458
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Side",
+    "userId": 123458
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Scrabble",
+    "userId": 123458
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Drop",
+    "userId": 123458
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Punt",
+    "userId": 123458
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Grubber",
+    "userId": 123458
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Goal",
+    "userId": 123458
+  },
+  {
+    "category": 1,
+    "value": 1,
+    "skillName": "passing Standard",
+    "userId": 123464
+  },
+  {
+    "category": 1,
+    "value": 5,
+    "skillName": "passing Spin",
+    "userId": 123464
+  },
+  {
+    "category": 1,
+    "value": 5,
+    "skillName": "passing Pop",
+    "userId": 123464
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Front",
+    "userId": 123464
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Rear",
+    "userId": 123464
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Side",
+    "userId": 123464
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Scrabble",
+    "userId": 123464
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Drop",
+    "userId": 123464
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Punt",
+    "userId": 123464
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Grubber",
+    "userId": 123464
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Goal",
+    "userId": 123464
+  },
+  {
+    "category": 1,
+    "value": 1,
+    "skillName": "passing Standard",
+    "userId": 123460
+  },
+  {
+    "category": 1,
+    "value": 5,
+    "skillName": "passing Spin",
+    "userId": 123460
+  },
+  {
+    "category": 1,
+    "value": 5,
+    "skillName": "passing Pop",
+    "userId": 123460
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Front",
+    "userId": 123460
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Rear",
+    "userId": 123460
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Side",
+    "userId": 123460
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Scrabble",
+    "userId": 123460
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Drop",
+    "userId": 123460
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Punt",
+    "userId": 123460
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Grubber",
+    "userId": 123460
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Goal",
+    "userId": 123460
+  },
+  {
+    "category": 1,
+    "value": 1,
+    "skillName": "passing Standard",
+    "userId": 123456
+  },
+  {
+    "category": 1,
+    "value": 5,
+    "skillName": "passing Spin",
+    "userId": 123456
+  },
+  {
+    "category": 1,
+    "value": 5,
+    "skillName": "passing Pop",
+    "userId": 123456
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Front",
+    "userId": 123456
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Rear",
+    "userId": 123456
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Side",
+    "userId": 123456
+  },
+  {
+    "category": 2,
+    "value": 1,
+    "skillName": "Kicking Scrabble",
+    "userId": 123456
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Drop",
+    "userId": 123456
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Punt",
+    "userId": 123456
+  },
+  {
+    "category": 3,
+    "value": 1,
+    "skillName": "Tackling Grubber",
+    "userId": 123456
+  },
+  {
+    "category": 3,
+    "value": 2,
+    "skillName": "Tackling Goal",
+    "userId": 123456
+  }
+]
